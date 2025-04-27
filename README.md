@@ -32,3 +32,5 @@ Welcome to the Pig Dice Game — a classic game of luck and strategy, now with a
 -->Smooth gameplay experience
 
 🎯 Try it yourself and enjoy the thrill of the roll!
+
+Deployed live: https://pigdiceweb.netlify.app/
